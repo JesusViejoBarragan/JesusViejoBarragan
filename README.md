@@ -18,18 +18,16 @@ Hi! I’m Jesús Viejo Barragán, a passionate software development student with
 
 On my GitHub profile, I share projects and exercises where I apply my skills in:
 
-Languages: Java, PHP, JavaScript.
+🧩 Languages: Java, PHP, JavaScript.
 
-Frameworks and libraries: Swing, Spring, Hibernate, JavaFX.
+📖 Frameworks and libraries: Swing, Spring, Hibernate, JavaFX.
 
-Tools: Docker, GitHub, API Rest.
+🔧 Tools: Docker, GitHub, API Rest.
 
 I also hold certifications in Scrum Foundation and Docker for Developers, which allow me to work efficiently in agile environments and with modern technologies.
 
 I consider myself a problem-solver, a team player, and someone who can quickly adapt to new technologies. Feel free to explore my repositories and reach out if you have any questions or suggestions!
 
-📫 Contact: jesusviejobarragan@gmail.com
-📍 Location: Coría del Río, Sevilla
 </p>
 
 <!--
