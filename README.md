@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  👨‍💻 Aspiring Software Developer
+  👨‍💻 Software Developer
 
 Hi! I’m Jesús Viejo Barragán, a passionate software development student with a strong drive for continuous learning and improvement. I have completed a Higher Technical Degree in Multiplatform Application Development at CEU San Pablo University and am now actively seeking my first professional opportunity in the tech world.
 
